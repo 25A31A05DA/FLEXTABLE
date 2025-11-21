@@ -17,7 +17,7 @@ index.html
 style.css
 
 ## 🚀 Live Demo
-
+https://25a31a05da.github.io/FLEXTABLE/
 
 ## 📘 Notes
 This is one of my early CSS projects as I learn web development step-by-step. More flexbox layouts coming soon!
